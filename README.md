@@ -1,5 +1,7 @@
 # Anomaly Detection
 
+Sistema de detección de anomalías mediante Isloation Forest, Python, Pandas, Tensorflow y Kafka.
+
 ## Levantar Kafka  
 
 ´´´ bash
